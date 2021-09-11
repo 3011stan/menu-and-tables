@@ -24,3 +24,5 @@ Os dados foram consumidos do <a href="https://jsonplaceholder.typicode.com/">JSO
 ## Acesso remoto
 Hospedei o projeto no Github Pages para que seja possível a utilização sem ter que baixar e rodar localmente.</br>
 Acesse <a href="https://3011stan.github.io/menu-and-tables/#/">Projeto Menu e Tabelas</a> para utilizar a aplicação.
+
+### Foi feito um deploy neste repositório, por isso a codificação foi compactada, para visualizar as linhas de código e a lógica utilizada neste projeto acesse o repositório de desenvolvimento: https://github.com/3011stan/menu-and-tables-dev
