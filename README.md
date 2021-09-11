@@ -23,4 +23,4 @@ Os dados foram consumidos do <a href="https://jsonplaceholder.typicode.com/">JSO
 
 ## Acesso remoto
 Hospedei o projeto no Github Pages para que seja possível a utilização sem ter que baixar e rodar localmente.</br>
-<a href="https://3011stan.github.io/menu-and-tables/#/">Projeto Menu e Tabelas</a>
+Acesse <a href="https://3011stan.github.io/menu-and-tables/#/">Projeto Menu e Tabelas</a> para utilizar a aplicação.
